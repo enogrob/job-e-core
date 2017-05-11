@@ -1,1 +1,4 @@
-.idea/
+profiles/
+src/
+tests/
+Icon*
